@@ -37,6 +37,7 @@ public class LoginTest {
 		
 		loginPage.loginDetails("nilroy@gmail.com", "Nilanjana@29");
 		System.out.println("Changes made after cloning the code from the original github project GitX to this project named GitDemo");
+		System.out.println("Changes made by architect in develop branch code");
 		
 	}
 	/*
