@@ -37,7 +37,7 @@ public class LoginTest {
 		
 		loginPage.loginDetails("nilroy@gmail.com", "Nilanjana@29");
 		System.out.println("Changes made after cloning the code from the original github project GitX to this project named GitDemo");
-		System.out.println("Checking the eclipse process and pushing to github");
+		System.out.println("Checking the Git app and pushing to github");
 	}
 	/*
 	@Test(dataProvider="getData")
